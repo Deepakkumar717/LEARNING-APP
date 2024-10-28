@@ -1,3 +1,4 @@
+DESCRIPTION
 1.Overview
 With the increased adoption of online education, a Learning Management System (LMS) provides students with the flexibility to access courses and resources on demand. This project aims to create an LMS with essential functionalities for user registration, course enrollment, video streaming, and feedback submission, supporting a streamlined and engaging learning experience.
 2. Objective and Scope
@@ -82,3 +83,16 @@ Real-Time Chat and Forums: A chat or forum feature would allow direct communicat
 Mobile App Version: Developing a dedicated mobile app would provide even greater accessibility.
 Performance Analytics: Adding performance tracking and analytics features would help instructors monitor student progress and engagement.
 AI-Driven Recommendations: Based on user engagement, the LMS could recommend additional or related courses.
+
+
+PROJECT SETUP:-
+First clone the repository then follow the steps for project setup 
+1. Install Angular CLI
+   node -v
+   npm -v
+   
+2.Install the Angular CLI globally
+   npm install -g @angular/cli
+   
+3.Start the Development Server
+    ng serve
